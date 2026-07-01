@@ -1,0 +1,264 @@
+canonical_identifier: bkk:krp/KR6k0176/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0176/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律拾毗尼義鈔
+  identifiers:
+    krp: KR6k0176
+    cbeta: X44n0747
+    cbeta_old_id: X44n0747
+    authorityid: CA0002806
+    json_key: X0747
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X44/X44n0747.xml
+    old_id: X44n0747
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0176_000-X.yaml, hash: 'sha256:867cd6646c5ac332076c69f3bb0a92239701d95e3dd144170e36026a33e7db68'}
+  - {seq: 2, filename: KR6k0176_002-X.yaml, hash: 'sha256:ccc41a9ba15afed000e673131691dcf04bb601f7b0112fe447341619ad72d5ca'}
+  - {seq: 3, filename: KR6k0176_003-X.yaml, hash: 'sha256:042bcf938cf3ae148748c10064f8be4f27098d4bd704281b270787c1722d693b'}
+  - {seq: 4, filename: KR6k0176_004-X.yaml, hash: 'sha256:0b88d616db6af62e9651d3c724250101fcbcde8af6702d9dbffe2f00e1ed72ec'}
+  - {seq: 5, filename: KR6k0176_005-X.yaml, hash: 'sha256:df64f691ab64edbb62a30c54b4e33372c3c6297545e0bd68db3a6feb8604d3da'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0176_000-X.markers.yaml, hash: 'sha256:fbd009a495a6a565e3ea46119123ef62ff45445247f9f573ab103ecd8bb733f2'}
+  - {seq: 2, role: markers, filename: assets/KR6k0176_002-X.markers.yaml, hash: 'sha256:d64dc991cc48661dc822ea5043557489d8513d2e1a204107850d89974ff02854'}
+  - {seq: 3, role: markers, filename: assets/KR6k0176_003-X.markers.yaml, hash: 'sha256:2456098c6ee054f9c7145747ca68cb62273d887e79399490a8ee699b47274b38'}
+  - {seq: 4, role: markers, filename: assets/KR6k0176_004-X.markers.yaml, hash: 'sha256:89ec3a4f5321864da4ae81f7ab7418f2592457a3d187b0a94090fee4d3e23b89'}
+  - {seq: 5, role: markers, filename: assets/KR6k0176_005-X.markers.yaml, hash: 'sha256:ebfe87d54e2408e3c95bfd7a528acf26af087e90e3c3cfeef6c45ee1554e5e6d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0176_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 747-A 校勘義鈔序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0176_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 11721
+  label: 四分律拾毗尼義鈔卷上之一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0176_X_1a-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 毗尼大綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0176_X_1a-mulu-2
+    span:
+    - body
+    - 2493
+    - 2493
+  label: 起戒差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0176_X_1a-mulu-3
+    span:
+    - body
+    - 8397
+    - 8397
+  label: 十三難
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0176_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 14266
+  label: 四分律拾毗尼義鈔卷上之二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0176_X_1b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 不學無知
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0176_X_1b-mulu-2
+    span:
+    - body
+    - 971
+    - 971
+  label: 轉業變根
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0176_X_1b-mulu-3
+    span:
+    - body
+    - 3116
+    - 3116
+  label: 破僧大意
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0176_X_1b-mulu-4
+    span:
+    - body
+    - 6971
+    - 6971
+  label: 時非時
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0176_X_1b-mulu-5
+    span:
+    - body
+    - 9093
+    - 9093
+  label: 四波羅夷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0176_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 15994
+  label: 四分律拾毗尼義鈔卷中之一
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0176_X_2a-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 十三僧殘
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0176_X_2a-mulu-2
+    span:
+    - body
+    - 4926
+    - 4926
+  label: 二不定
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0176_X_2a-mulu-3
+    span:
+    - body
+    - 7177
+    - 7177
+  label: 三十捨墮
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 16848
+  label: 四分律拾毗尼義鈔卷中之二
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 九十單提
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-2
+    span:
+    - body
+    - 9797
+    - 9797
+  label: 四提舍尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-3
+    span:
+    - body
+    - 10322
+    - 10322
+  label: 眾學
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-4
+    span:
+    - body
+    - 11160
+    - 11160
+  label: 七滅諍
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-5
+    span:
+    - body
+    - 14835
+    - 14835
+  label: 四諍
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-6
+    span:
+    - body
+    - 16625
+    - 16625
+  label: No. 747-B 新羅國寄還書
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0176_X_2b-mulu-7
+    span:
+    - body
+    - 16758
+    - 16758
+  label: 唐法寶律師批
+  type: mulu
+  level: 1
+hash: sha256:0364607929c494a6306d2c9ddc39a7e1ff34efc5a84dce439fb59c7f7a5900c6
